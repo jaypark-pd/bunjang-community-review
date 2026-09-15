@@ -1,0 +1,43 @@
+{
+  "checked": "2026-09-15",
+  "selection": "https://kream.co.kr/content/16604",
+  "note": "KREAM 기획전 소드&실드 섹션의 4종. 상품명·이미지·모델번호만 출처 사용. 가격·거래일·이용자·상태는 가상. HIT는 거래량 순위가 아닌 기획전 선정 기준. 원본 이미지 변경 없음.",
+  "cards": [
+    {
+      "id": "hit1",
+      "name": "아르세우스 VSTAR UR",
+      "code": "S12a 262/172 · 일문",
+      "image": "hit-arceus.webp",
+      "source": "https://kream.co.kr/products/652758",
+      "url": "https://kream-phinf.pstatic.net/MjAyNTEwMjZfMjky/MDAxNzYxNDE0NjIxNDY1.V98tKtjGPIawGBVEVvpbJ64-VJvfHroOHhxfM33_MpEg.qhv082tS9UhGa91DCvebu3Hbl-IA5F4HfMvVcSdf_Log.PNG/a_ac17666898264cf2905487ffa9c84305.png?cors=w_production_766326&type=m_webp",
+      "price": "150,000원"
+    },
+    {
+      "id": "hit2",
+      "name": "기라티나 VSTAR UR",
+      "code": "S12a 261/172 · 일문",
+      "image": "hit-giratina.webp",
+      "source": "https://kream.co.kr/products/652757",
+      "url": "https://kream-phinf.pstatic.net/MjAyNTEwMjZfODkg/MDAxNzYxNDE1NjE0MjMw.mgHWZVYT5qqGlncGSVsbsa6RM6APVdWi_MJC6_0CuRMg.LDFoFqOkstUzFMjCjp5G3nadXr50X8V5FbKrAMoxeDYg.PNG/a_6653e68c1b2147e48abb47fc4564c519.png?cors=w_production_766326&type=m_webp",
+      "price": "280,000원"
+    },
+    {
+      "id": "hit3",
+      "name": "리자몽 VSTAR SAR",
+      "code": "S12a 212/172 · 일문",
+      "image": "hit-charizard.webp",
+      "source": "https://kream.co.kr/products/652708",
+      "url": "https://kream-phinf.pstatic.net/MjAyNTEwMjZfMTc2/MDAxNzYxNDE1NDA4Mzc3.IZjOhbOGFckuVxhoYQe0DXzkncCV5lHIK6mxHBR3Enkg.FCwcaNtIbTfs3lZEPQzRFyddBG_lOOtZwMKvujdENi0g.PNG/a_ea872e210d7d456cb29a40c1ba98c11d.png?cors=w_production_766326&type=m_webp",
+      "price": "100,000원"
+    },
+    {
+      "id": "hit4",
+      "name": "뮤츠 VSTAR SAR",
+      "code": "S12a 221/172 · 일문",
+      "image": "hit-mewtwo.webp",
+      "source": "https://kream.co.kr/products/652717",
+      "url": "https://kream-phinf.pstatic.net/MjAyNTEwMjZfMTE4/MDAxNzYxNDE0MzIwMTc1.-tR05tkusO3Rl2WOK8z9pUyCPArfJkPx4NiZ2DJxS9Eg.tEACeVkX-0_bhk8nwIHa4ihXr6CZYv8BlE_WnlVcFQcg.PNG/a_28b8990ebcb5489ca4eb45c527802cb6.png?cors=w_production_766326&type=m_webp",
+      "price": "140,000원"
+    }
+  ]
+}
